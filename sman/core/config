@@ -1,6 +1,7 @@
 [package]
 version=master
 homepage=https://github.com/finwo/sman
+depends=libc
 
 [source]
 type=tarball
