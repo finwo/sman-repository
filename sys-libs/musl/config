@@ -1,0 +1,10 @@
+[package]
+version=1.2.1
+homepage=https://musl.libc.org/
+provides=libc
+
+[source]
+type=tarball
+url=https://musl.libc.org/releases/musl-1.2.1.tar.gz
+
+
