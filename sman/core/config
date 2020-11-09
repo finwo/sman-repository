@@ -1,0 +1,7 @@
+[package]
+version=master
+homepage=https://github.com/finwo/sman
+
+[source]
+type=tarball
+url=https://github.com/finwo/sman/archive/master.tar.gz
